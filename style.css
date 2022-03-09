@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.menu{
+    padding-top: 20px;
+}
+.menu img{
+    width: 200px;
+    height: 60px;
+}
+.navbar-nav{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+}
+.btn-success{
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: #21B573;
+    font-size: 16px;
+    line-height: 19px;
+}
+.herobanner {
+    padding: 30px 20px;
+}
+.herobanner h1{
+    font-style: normal;
+    font-weight: 800;
+    padding-bottom: 15px;
+}
+.herobanner img{
+    width: 100%;
+    margin: 30px 0px;
+}
+.header-main{
+    background-color: #F0FFF0;
+}
+#orange-p{
+    color: #FD511A;
+}
+#green-heading{
+    color: #21B573;
+}
+.card img{
+    height: 90px;
+    width: 70px;
+}
+.card{
+    text-align: center;
+    background-color: #F8FFFB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: none;
+    border-radius: 10px;
+    margin: 0px 5px;
+}
+.information{
+    margin-top: 40px;
+}
+#card-h-item{
+    background-color: white;
+    box-shadow: 5px 5px 10px rgb(224, 223, 223);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: none;
+    border-radius: 10px;
+}
