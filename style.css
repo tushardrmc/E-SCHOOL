@@ -5,7 +5,6 @@ body{
     padding-top: 20px;
 }
 .menu img{
-    width: 200px;
     height: 60px;
 }
 .navbar-nav{
@@ -44,11 +43,11 @@ body{
 #green-heading{
     color: #21B573;
 }
-.card img{
+.information .card img{
     height: 90px;
     width: 70px;
 }
-.card{
+.information .card{
     text-align: center;
     background-color: #F8FFFB;
     padding-top: 50px;
@@ -67,4 +66,32 @@ body{
     padding-bottom: 50px;
     border: none;
     border-radius: 10px;
+}
+.course-area{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.course-area-inner{
+    margin-top: 20px;
+}
+.course-area img{
+    padding: 15px;
+}
+.course-area .card{
+    border-radius: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.course-area .card-body{
+    padding: 20px;
+}
+.course-area .card-tittle{
+    font-weight: 800;
+}
+.course-info{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
 }
