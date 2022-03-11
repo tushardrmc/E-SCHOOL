@@ -57,7 +57,8 @@ body{
     margin: 0px 5px;
 }
 .information{
-    margin-top: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 #card-h-item{
     background-color: white;
@@ -93,5 +94,23 @@ body{
     padding-right: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
-
+}
+.testimonial{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.testimonial img{
+    margin: 5px;
+    padding: 5px;
+    height: 120px;
+    width: 120px;
+}
+.testimonial p{
+    margin: 5px;
+    padding: 5px;
+    text-align: justify;
+}
+.testimonial-item{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
